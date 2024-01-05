@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# MY First React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is about a static movie app which can return movies upon search.\
+the api used is omdb api.
 
 ## Available Scripts
 
